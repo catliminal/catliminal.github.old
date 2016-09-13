@@ -1,0 +1,25 @@
+html {
+    height: 100%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background: #c05c67;
+}
+
+div#container_img {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -80%);
+}
+div#container_h1 {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, 20%);
+}
+#container h1 {
+    color: #fff;
+    font-size: 60px;
+}
